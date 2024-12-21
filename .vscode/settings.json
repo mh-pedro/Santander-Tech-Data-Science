@@ -1,0 +1,18 @@
+{
+    "cSpell.enabledFileTypes": {
+        "markdown": true
+    },
+    "cSpell.words": [
+        "boleano",
+        "braplot",
+        "Dtype",
+        "dtypes",
+        "errorbar",
+        "fillna",
+        "funilamos",
+        "histplot",
+        "printando",
+        "repr",
+        "writerows"
+    ]
+}
